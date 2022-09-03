@@ -1,0 +1,23 @@
+{
+  "name": "palfindr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braulioloaizac/palfindr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braulioloaizac/palfindr/issues"
+  },
+  "homepage": "https://github.com/braulioloaizac/palfindr#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4"
+  }
+}
