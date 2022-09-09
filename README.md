@@ -7,7 +7,7 @@ The app was made using MongoDB, the ODM model with mongoose, and express.
 
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Usage](#usage)
 - [Licence](#licence)
