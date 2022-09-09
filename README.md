@@ -27,3 +27,6 @@ The Unlicense
 Email : bloaizac@uqvirtual.edu.co
 
 ![alt text](./screenshot.png/ "snapshot")
+
+[Click here](https://drive.google.com/file/d/1jVb8E-uch2Qmk8WS76KOaAznEmUrU8rz/view) to see a video showing the app working
+
